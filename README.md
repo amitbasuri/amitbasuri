@@ -7,6 +7,7 @@ I'm Amit Basuri, a passionate Software Engineer with 6 years of experience in ne
 - 🌍 Based in Berlin, Germany
 - 📧 Reach me at [amitbasuri123@gmail.com](mailto:amitbasuri123@gmail.com)
 - 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/amitbasuri)
+- 💻 Check out my coding skills on [LeetCode](https://leetcode.com/amitbasuri123/)
 
 #### 💻 Professional Experience
 - **Software Engineer** at Delivery Hero (11/2022 - Present)
