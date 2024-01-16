@@ -1,6 +1,3 @@
-Certainly! Here's a revised version of your GitHub profile README, incorporating elements from your resume to showcase your professional experience and skills:
-
-```markdown
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=amitbasuri&color=blueviolet)
 
