@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=amitbasuri&color=blueviolet)
 
 I'm Amit Basuri, a passionate Software Engineer with 6 years of experience in networking, e-commerce, and blockchain. Currently enhancing organizational growth with cutting-edge technology solutions at Delivery Hero, Berlin.
 
