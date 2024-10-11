@@ -5,11 +5,9 @@ I'm Amit Basuri, a passionate Software Engineer with 6 years of experience in ne
 #### 🌟 About Me
 - 🌍 Based in Berlin, Germany
 - 📧 Reach me at [amitbasuri123@gmail.com](mailto:amitbasuri123@gmail.com)
-- 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/amitbasuri)
-- 💻 Check out my coding skills on [LeetCode](https://leetcode.com/amitbasuri123/)
 
 #### 💻 Professional Experience
-- **Software Engineer** at Delivery Hero (11/2022 - Present)
+- **Software Engineer** at Delivery Hero (11/2022 - 06/2023)
   - Working on a Golang server for homescreen content generation for Foodpanda in 21 countries.
 - **Software Engineer** at Cisco, Bangalore (06/2021 - 11/2022)
   - Developed a GRPC Golang server application for network telemetry in the AnyConnect ecosystem.
