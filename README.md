@@ -17,7 +17,7 @@ I'm Amit Basuri, a passionate Software Engineer with 6 years of experience in ne
 - **Transparency Reports**: Breaks down flagged content with detailed explanations and alternative sources.
 
 ### 🔧 Technologies Used
-- **Frontend**: React.js
+- **Frontend**: ReactJs, NextJs
 - **Backend**: Python with Flask
 - **AI & NLP Frameworks**: LangChain, Generative AI (LLMs)
 - **Cloud Services**: Google Cloud Platform (GCP) for deployment and scalability
