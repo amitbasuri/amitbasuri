@@ -29,7 +29,7 @@ Explore **TruthWatch** further at [truthwatch.live](https://www.truthwatch.live/
 
 #### 🌟 About Me
 - 🌍 Based in Berlin, Germany
-- 📧 Reach me at [amitbasuri123@gmail.com](mailto:amitbasuri321@gmail.com)
+- 📧 Reach me at [amitbasuri321@gmail.com](mailto:amitbasuri321@gmail.com)
 
 #### 💻 Professional Experience
 - **Software Engineer** at Delivery Hero (11/2022 - 06/2024)
