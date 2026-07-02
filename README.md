@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-I'm Amit Basuri, a passionate Software Engineer with 6 years of experience in networking, e-commerce, and blockchain. Currently enhancing organizational growth with cutting-edge technology solutions at Delivery Hero, Berlin.
+I'm Amit Basuri, a passionate Software Engineer with 8+ years of experience in networking, e-commerce, and blockchain. Currently enhancing organizational growth with cutting-edge technology solutions at Delivery Hero, Berlin.
 
 ---
 
 #### 🌟 About Me
 - 🌍 Based in Berlin, Germany
-- 📧 Reach me at [amitbasuri321@gmail.com](mailto:amitbasuri321@gmail.com)
 
 #### 💻 Professional Experience
 - **Software Engineer** at Delivery Hero (11/2022 - 06/2024)
